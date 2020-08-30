@@ -47,7 +47,7 @@ nd!more: Para mais informações.
 
 ### Suporte e contato.
 
-Nosso Suporte via e-mail: nodusbotsuport@gmail.com
+Nosso **Suporte** via e-mail: nodusbotsuport@gmail.com
 
 
 Nosso **Suporte** via discord [discord](https://discord.gg/wUrqFhF)
