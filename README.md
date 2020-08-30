@@ -26,7 +26,6 @@ A nossa equipe conta com 4 dev's e 2 divulgadores sendo;
 
 
 ```Comandos
-Syntax highlighted code block
 
 **nd!help: Esse comando mostra todos os outros comandos do BOT.**
 **nd!pause: Pausa a música atual.**
