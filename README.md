@@ -7,19 +7,19 @@ Esperamos que você tenha a melhor experiência com o nosso BOT, desenvolvemos e
 
 A nossa equipe conta com 4 dev's e 2 divulgadores sendo;
 
-**Miguel ( CEO )
+**Miguel ( CEO )**
 
-**Flavio ( CEO )
+**Flavio ( CEO )**
 
-**Ricky  ( CEO )
+**Ricky  ( CEO )**
 
-**Samuel ( CEO ) 
+**Samuel ( CEO )** 
 
 ### Divulgadores
 
-**Allan ( Div )
+**Allan ( Div )**
 
-**Duque ( Div )
+**Duque ( Div )**
 
 
 ### Nosso Suporte ( Comandos )
