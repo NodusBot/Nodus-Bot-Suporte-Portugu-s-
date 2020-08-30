@@ -36,23 +36,16 @@ nd!stop: Para a musica atual.
 nd!vol: Ajusta o volume entre 0 e 10.
 nd!more: Para mais informações.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Sobre o BOT
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NodusBot/Nodus-Bot-Suporte-Portugu-s-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Sou um bot de música, criado no intuito de melhorar sua experiência em chamadas no discord, esperamos que todos goste.**
+**Vale relembrar que estou em fase BETA!**
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Suporte e contato.
+
+Nosso Suporte via e-mail: nodusbotsuport@gmail.com
+Nosso **Suporte** via discord [discord](https://discord.gg/wUrqFhF)
