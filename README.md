@@ -28,9 +28,14 @@ A nossa equipe conta com 4 dev's e 2 divulgadores sendo;
 ```Comandos
 Syntax highlighted code block
 
-**:thinking: nd!help: Esse comando mostra todos os outros comandos do BOT.
-## Header 2
-### Header 3
+**nd!help: Esse comando mostra todos os outros comandos do BOT.**
+**nd!pause: Pausa a música atual.**
+**nd!p: Reproduz a música desejada no canal atual do usuário.**
+**nd!resume: Retoma a música pausada.**
+**nd!skip: Pula para a próxima música.**
+**nd!stop: Para a musica atual.**
+**nd!vol: Ajusta o volume entre 0 e 10.**
+**nd!more: Para mais informações.**
 
 - Bulleted
 - List
