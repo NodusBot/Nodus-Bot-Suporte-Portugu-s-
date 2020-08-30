@@ -42,6 +42,7 @@ nd!more: Para mais informações.
 ### Sobre o BOT
 
 **Sou um bot de música, criado no intuito de melhorar sua experiência em chamadas no discord, esperamos que todos goste.**
+
 **Vale relembrar que estou em fase BETA!**
 
 
