@@ -2,16 +2,33 @@
 
 Esperamos que você tenha a melhor experiência com o nosso BOT, desenvolvemos ele com muito carinho.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Dev's
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A nossa equipe conta com 4 dev's e 2 divulgadores sendo;
 
-```markdown
+**Miguel ( CEO )
+
+**Flavio ( CEO )
+
+**Ricky  ( CEO )
+
+**Samuel ( CEO ) 
+
+### Divulgadores
+
+**Allan ( Div )
+
+**Duque ( Div )
+
+
+### Nosso Suporte ( Comandos )
+
+
+```Comandos
 Syntax highlighted code block
 
-# Header 1
+**:thinking: nd!help: Esse comando mostra todos os outros comandos do BOT.
 ## Header 2
 ### Header 3
 
