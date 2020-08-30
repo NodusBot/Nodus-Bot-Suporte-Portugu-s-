@@ -52,3 +52,5 @@ Nosso **Suporte** via e-mail: nodusbotsuport@gmail.com
 
 
 Nosso **Suporte** via discord [discord](https://discord.gg/wUrqFhF)
+
+Suporte em [Inglês](https://bit.ly/3luFQ01)
