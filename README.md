@@ -5,7 +5,7 @@ Esperamos que você tenha a melhor experiência com o nosso BOT, desenvolvemos e
 
 ### Dev's
 
-A nossa equipe conta com 4 dev's e 2 divulgadores sendo;
+A nossa equipe conta com 4 dev's, 1 Gestor e 2 divulgadores sendo;
 
 **Miguel ( CEO )**
 
@@ -14,6 +14,10 @@ A nossa equipe conta com 4 dev's e 2 divulgadores sendo;
 **Ricky  ( CEO )**
 
 **Samuel ( CEO )** 
+
+### Gestores
+
+**Caleb ( GES )**
 
 ### Divulgadores
 
